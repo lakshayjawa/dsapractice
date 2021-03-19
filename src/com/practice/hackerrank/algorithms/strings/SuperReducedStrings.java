@@ -1,6 +1,8 @@
 package com.practice.hackerrank.algorithms.strings;
 
-import java.io.*;
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
 import java.util.Stack;
 /**
  *  Problem Statement:
@@ -36,16 +38,10 @@ public class SuperReducedStrings {
 
     public static void main(String[] args) throws IOException {
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
-        BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter(System.getenv("OUTPUT_PATH")));
-
         String s = bufferedReader.readLine();
 
         String result = superReducedString(s);
-
-        bufferedWriter.write(result);
-        bufferedWriter.newLine();
-
+        System.out.println(result);
         bufferedReader.close();
-        bufferedWriter.close();
     }
 }
