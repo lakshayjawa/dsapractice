@@ -4,7 +4,10 @@ import java.io.IOException;
 import java.util.Scanner;
 
 /**
+ * Problem statement -
+ * [Caesar Cipher](https://www.hackerrank.com/challenges/caesar-cipher-1/problem)
  *
+ * @author lakshay
  */
 public class CaesarCipher {
   // Complete the caesarCipher function below.
@@ -34,7 +37,7 @@ public class CaesarCipher {
 
   private static final Scanner scanner = new Scanner(System.in);
 
-  public static void main(String[] args) throws IOException {
+  public static void main(String[] args) {
     int n = scanner.nextInt();
     scanner.skip("(\r\n|[\n\r\u2028\u2029\u0085])?");
     String s = scanner.nextLine();
