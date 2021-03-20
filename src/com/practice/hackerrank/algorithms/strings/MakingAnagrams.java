@@ -6,6 +6,8 @@ import java.util.Scanner;
  * Problem Statement [Making Anagrams]
  * (https://www.hackerrank.com/challenges/ctci-making-anagrams/problem)
  *
+ * (https://www.hackerrank.com/challenges/making-anagrams/problem)
+ *
  * <p>Two strings are anagrams of each other if the first string's letters can be rearranged to form
  * the second string. In other words, both strings must contain the same exact letters in the same
  * exact frequency.
