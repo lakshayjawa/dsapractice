@@ -43,3 +43,11 @@ REACTO - Accronym for approaching DSA problems
 | ----- | ---------- | --------------- | ------- | -------- | 
 | 1  | Easy | Basic | [Maximum element](https://www.hackerrank.com/challenges/maximum-element/problem) | [Solution](https://github.com/lakshayjawa/dsapractice/blob/main/src/com/practice/hackerrank/datastructures/stacks/MaximumElement.java)
 | 2  | Easy | Basic | [Equal Stacks](https://www.hackerrank.com/challenges/equal-stacks/problem) | [Solution](https://github.com/lakshayjawa/dsapractice/blob/main/src/com/practice/hackerrank/datastructures/stacks/EqualStacks.java)
+
+
+### Data Structures
+#### Arrays
+| Number| Difficulty | Problem Solving | Problem | Solution | 
+| ----- | ---------- | --------------- | ------- | -------- | 
+| 1  | Easy | Basic | [2d- Arrays](https://www.hackerrank.com/challenges/2d-array/problem) | [Solution](https://github.com/lakshayjawa/dsapractice/blob/main/src/com/practice/hackerrank/datastructures/arrays/TwoDimensionalArray.java)
+| 2  | Easy | Basic | [Array Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation/problem) | [Solution](https://github.com/lakshayjawa/dsapractice/blob/main/src/com/practice/hackerrank/datastructures/arrays/ArrayLeftRotation.java)
