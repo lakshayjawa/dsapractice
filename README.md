@@ -29,3 +29,17 @@ REACTO - Accronym for approaching DSA problems
 | 14 | Easy | Basic | [Two Strings](https://www.hackerrank.com/challenges/two-strings/problem) | [Solution](https://github.com/lakshayjawa/dsapractice/blob/main/src/com/practice/hackerrank/algorithms/strings/TwoStrings.java)
 | 15 | Easy | Basic | [Game of Thrones](https://www.hackerrank.com/challenges/game-of-thrones/problem) | [Solution](https://github.com/lakshayjawa/dsapractice/blob/main/src/com/practice/hackerrank/algorithms/strings/GameOfThrones.java)
 | 16 | Easy | Basic | [String Construction](https://www.hackerrank.com/challenges/string-construction/problem) | [Solution](https://github.com/lakshayjawa/dsapractice/blob/main/src/com/practice/hackerrank/algorithms/strings/StringConstruction.java)
+| 17 | Easy | Basic | [Hacker Rank String](https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem) | [Solution](https://github.com/lakshayjawa/dsapractice/blob/main/src/com/practice/hackerrank/algorithms/strings/HackerRankString.java)
+| 18 | Easy | Intermediate | [Separate The Numbers](https://www.hackerrank.com/challenges/separate-the-numbers/problem)| [Solution](https://github.com/lakshayjawa/dsapractice/blob/main/src/com/practice/hackerrank/algorithms/strings/SeparateTheNumbers.java)
+| 19 | Easy | Intermediate | [Palindrome Index](https://www.hackerrank.com/challenges/palindrome-index/problem) | [Solution](https://github.com/lakshayjawa/dsapractice/blob/main/src/com/practice/hackerrank/algorithms/strings/PalindromeIndex.java)
+| 20 | Easy | Intermediate | [Weighted Uniform Strings](https://www.hackerrank.com/challenges/weighted-uniform-string/problem) | [Solution](https://github.com/lakshayjawa/dsapractice/blob/main/src/com/practice/hackerrank/algorithms/strings/WeightedUniformStrings.java) 
+
+
+
+
+### Data Structures
+#### Stacks
+| Number| Difficulty | Problem Solving | Problem | Solution | 
+| ----- | ---------- | --------------- | ------- | -------- | 
+| 1  | Easy | Basic | [Maximum element](https://www.hackerrank.com/challenges/maximum-element/problem) | [Solution](https://github.com/lakshayjawa/dsapractice/blob/main/src/com/practice/hackerrank/datastructures/stacks/MaximumElement.java)
+| 2  | Easy | Basic | [Equal Stacks](https://www.hackerrank.com/challenges/equal-stacks/problem) | [Solution](https://github.com/lakshayjawa/dsapractice/blob/main/src/com/practice/hackerrank/datastructures/stacks/EqualStacks.java)
