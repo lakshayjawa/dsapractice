@@ -45,9 +45,26 @@ REACTO - Accronym for approaching DSA problems
 | 2  | Easy | Basic | [Equal Stacks](https://www.hackerrank.com/challenges/equal-stacks/problem) | [Solution](https://github.com/lakshayjawa/dsapractice/blob/main/src/com/practice/hackerrank/datastructures/stacks/EqualStacks.java)
 
 
-### Data Structures
 #### Arrays
 | Number| Difficulty | Problem Solving | Problem | Solution | 
 | ----- | ---------- | --------------- | ------- | -------- | 
 | 1  | Easy | Basic | [2d- Arrays](https://www.hackerrank.com/challenges/2d-array/problem) | [Solution](https://github.com/lakshayjawa/dsapractice/blob/main/src/com/practice/hackerrank/datastructures/arrays/TwoDimensionalArray.java)
 | 2  | Easy | Basic | [Array Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation/problem) | [Solution](https://github.com/lakshayjawa/dsapractice/blob/main/src/com/practice/hackerrank/datastructures/arrays/ArrayLeftRotation.java)
+
+
+#### Linked List
+| Number| Difficulty | Problem Solving | Problem | Solution | 
+| ----- | ---------- | --------------- | ------- | -------- | 
+| 1  | Easy | Basic | [Print Elements](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem)| [Solution](https://github.com/lakshayjawa/dsapractice/blob/main/src/com/practice/hackerrank/datastructures/linkedlist/PrintElements.java)
+| 2  | Easy | Basic | [Insert At Head](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem)| [Solution](https://github.com/lakshayjawa/dsapractice/blob/main/src/com/practice/hackerrank/datastructures/linkedlist/InsertAtHead.java)
+
+#### Trees
+| Number| Difficulty | Problem Solving | Problem | Solution | 
+| ----- | ---------- | --------------- | ------- | -------- | 
+| 1  | Easy | Basic | [Pre Order Traversal](https://www.hackerrank.com/challenges/tree-preorder-traversal/problem)| [Solution](https://github.com/lakshayjawa/dsapractice/blob/main/src/com/practice/hackerrank/datastructures/trees/PreOrderTraversal.java)
+| 2  | Easy | Basic | [Post Order Traversal](https://www.hackerrank.com/challenges/tree-postorder-traversal/problem) | [Solution](https://github.com/lakshayjawa/dsapractice/blob/main/src/com/practice/hackerrank/datastructures/trees/PostOrderTraversal.java)
+| 3  | Easy | Basic | [In Order Traversal](https://www.hackerrank.com/challenges/tree-inorder-traversal/problem) | [Solution](https://github.com/lakshayjawa/dsapractice/blob/main/src/com/practice/hackerrank/datastructures/trees/InOrderTraversal.java)
+| 4  | Easy | Basic | [Height of Binary Tree](https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree/problem) | [Solution](https://github.com/lakshayjawa/dsapractice/blob/main/src/com/practice/hackerrank/datastructures/trees/HeightOfTree.java)
+| 5  | Easy | Basic | [Level order traversal](https://www.hackerrank.com/challenges/tree-level-order-traversal/problem) | [Solution](https://github.com/lakshayjawa/dsapractice/blob/main/src/com/practice/hackerrank/datastructures/trees/LevelOrderTraversal.java)
+| 6  | Easy | Basic | [Binary Search Tree Insertion](https://www.hackerrank.com/challenges/binary-search-tree-insertion/problem) | [Solution](https://github.com/lakshayjawa/dsapractice/blob/main/src/com/practice/hackerrank/datastructures/trees/InsertInBST.java)
+
