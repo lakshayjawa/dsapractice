@@ -67,4 +67,5 @@ REACTO - Accronym for approaching DSA problems
 | 4  | Easy | Basic | [Height of Binary Tree](https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree/problem) | [Solution](https://github.com/lakshayjawa/dsapractice/blob/main/src/com/practice/hackerrank/datastructures/trees/HeightOfTree.java)
 | 5  | Easy | Basic | [Level order traversal](https://www.hackerrank.com/challenges/tree-level-order-traversal/problem) | [Solution](https://github.com/lakshayjawa/dsapractice/blob/main/src/com/practice/hackerrank/datastructures/trees/LevelOrderTraversal.java)
 | 6  | Easy | Basic | [Binary Search Tree Insertion](https://www.hackerrank.com/challenges/binary-search-tree-insertion/problem) | [Solution](https://github.com/lakshayjawa/dsapractice/blob/main/src/com/practice/hackerrank/datastructures/trees/InsertInBST.java)
-
+| 7  | Easy | Basic | [BST-lowest-common-ancestor](https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor/problem) | [Solution](https://github.com/lakshayjawa/dsapractice/blob/main/src/com/practice/hackerrank/datastructures/trees/LowestCommonAncestor.java)
+| 8  | Easy | Basic | [Tree Top View](https://www.hackerrank.com/challenges/tree-top-view/problem) | [Solution](https://github.com/lakshayjawa/dsapractice/blob/main/src/com/practice/hackerrank/datastructures/trees/TopView.java)
