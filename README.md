@@ -56,7 +56,16 @@ REACTO - Accronym for approaching DSA problems
 | Number| Difficulty | Problem Solving | Problem | Solution | 
 | ----- | ---------- | --------------- | ------- | -------- | 
 | 1  | Easy | Basic | [Print Elements](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem)| [Solution](https://github.com/lakshayjawa/dsapractice/blob/main/src/com/practice/hackerrank/datastructures/linkedlist/PrintElements.java)
-| 2  | Easy | Basic | [Insert At Head](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem)| [Solution](https://github.com/lakshayjawa/dsapractice/blob/main/src/com/practice/hackerrank/datastructures/linkedlist/InsertAtHead.java)
+| 2  | Easy | Basic | [Insert At Head](https://www.hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list/problem)| [Solution](https://github.com/lakshayjawa/dsapractice/blob/main/src/com/practice/hackerrank/datastructures/linkedlist/InsertAtHead.java)
+| 3  | Easy | Basic | [Insert at Tail](https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list/problem) | [Solution](https://github.com/lakshayjawa/dsapractice/blob/main/src/com/practice/hackerrank/datastructures/linkedlist/InsertAtTail.java)
+| 4  | Easy | Basic | [Insert at position](https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list/problem) | [Solution](https://github.com/lakshayjawa/dsapractice/blob/main/src/com/practice/hackerrank/datastructures/linkedlist/InsertAtPosition.java)
+| 5  | Easy | Basic | [Delete At Position](https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list/problem) | [Solution](https://github.com/lakshayjawa/dsapractice/blob/main/src/com/practice/hackerrank/datastructures/linkedlist/DeleteAtPosition.java)
+| 6  | Easy | Basic | [Print In Reverse](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list-in-reverse/problem) | [Solution](https://github.com/lakshayjawa/dsapractice/blob/main/src/com/practice/hackerrank/datastructures/linkedlist/PrintInReverse.java)
+| 7  | Easy | Basic | [Get Node value at a specific position from tail](https://www.hackerrank.com/challenges/get-the-value-of-the-node-at-a-specific-position-from-the-tail/problem) | [Solution](https://github.com/lakshayjawa/dsapractice/blob/main/src/com/practice/hackerrank/datastructures/linkedlist/GetNodeFromTail.java)
+| 8  | Easy | Basic | [Reverse a Linked list](https://www.hackerrank.com/challenges/reverse-a-linked-list/problem) | [Solution](https://github.com/lakshayjawa/dsapractice/blob/main/src/com/practice/hackerrank/datastructures/linkedlist/Reverse.java)
+| 9  | Easy | Basic | [Compare two linked lists](https://www.hackerrank.com/challenges/compare-two-linked-lists/problem?isFullScreen=true) | [Solution](https://github.com/lakshayjawa/dsapractice/blob/main/src/com/practice/hackerrank/datastructures/linkedlist/CompareLists.java)
+| 10 | Easy | Basic | [Delete Duplicate values in sorted list](https://www.hackerrank.com/challenges/delete-duplicate-value-nodes-from-a-sorted-linked-list/problem) | [Solution](https://github.com/lakshayjawa/dsapractice/blob/main/src/com/practice/hackerrank/datastructures/linkedlist/DeleteDuplicatesInSortedList.java)
+
 
 #### Trees
 | Number| Difficulty | Problem Solving | Problem | Solution | 
