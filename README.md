@@ -34,7 +34,12 @@ REACTO - Accronym for approaching DSA problems
 | 19 | Easy | Intermediate | [Palindrome Index](https://www.hackerrank.com/challenges/palindrome-index/problem) | [Solution](https://github.com/lakshayjawa/dsapractice/blob/main/src/com/practice/hackerrank/algorithms/strings/PalindromeIndex.java)
 | 20 | Easy | Intermediate | [Weighted Uniform Strings](https://www.hackerrank.com/challenges/weighted-uniform-string/problem) | [Solution](https://github.com/lakshayjawa/dsapractice/blob/main/src/com/practice/hackerrank/algorithms/strings/WeightedUniformStrings.java) 
 
-
+#### Implementation
+| Number| Difficulty | Problem Solving | Problem | Solution | 
+| ----- | ---------- | --------------- | ------- | -------- | 
+| 1  | Easy | Basic | [Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem) | [Solution](https://github.com/lakshayjawa/dsapractice/blob/main/src/com/practice/hackerrank/algorithms/implementation/DesignerPdfViewer.java)
+| 2  | Easy | Basic | [Modified Kaprekar Numbers](https://www.hackerrank.com/challenges/kaprekar-numbers/problem) | [Solution](https://github.com/lakshayjawa/dsapractice/blob/main/src/com/practice/hackerrank/algorithms/implementation/ModifiedKaprekarNumbers.java)
+| 3  | Easy | Basic | [Cavity Map](https://www.hackerrank.com/challenges/cavity-map/problem)  | [Solution](https://github.com/lakshayjawa/dsapractice/blob/main/src/com/practice/hackerrank/algorithms/implementation/CavityMap.java)
 
 
 ### Data Structures
