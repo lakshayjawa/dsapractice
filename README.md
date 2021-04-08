@@ -20,7 +20,7 @@ REACTO - Accronym for approaching DSA problems
 | 5  | Easy | Basic | [Making Anagrams](https://www.hackerrank.com/challenges/ctci-making-anagrams/problem) | [Solution](https://github.com/lakshayjawa/dsapractice/blob/main/src/com/practice/hackerrank/algorithms/strings/MakingAnagrams.java)
 | 6  | Easy | Basic | [Funny String](https://www.hackerrank.com/challenges/funny-string/problem) | [Solution](https://github.com/lakshayjawa/dsapractice/blob/main/src/com/practice/hackerrank/algorithms/strings/FunnyString.java)
 | 7  | Easy | Basic | [Mars Exploration](https://www.hackerrank.com/challenges/mars-exploration/problem) | [Solution](https://github.com/lakshayjawa/dsapractice/blob/main/src/com/practice/hackerrank/algorithms/strings/MarsExploration.java)
-| 8  | Easy | Basic | [Gemstones](https://www.hackerrank.com/challenges/gem-stones/problem) | [~~Wrong Solution~~](https://github.com/lakshayjawa/dsapractice/blob/main/src/com/practice/hackerrank/algorithms/strings/GemsStonesWrongSolution.java) [Correct Solution](https://github.com/lakshayjawa/dsapractice/blob/main/src/com/practice/hackerrank/algorithms/strings/GemsStonesCorrectSolution.java)
+| 8  | Easy | Basic | [Gemstones](https://www.hackerrank.com/challenges/gem-stones/problem) | [~~Wrong Solution~~](https://github.com/lakshayjawa/dsapractice/blob/main/src/com/practice/hackerrank/algorithms/strings/GemStonesWrongSolution.java) [Correct Solution](https://github.com/lakshayjawa/dsapractice/blob/main/src/com/practice/hackerrank/algorithms/strings/GemsStonesCorrectSolution.java)
 | 9  | Easy | Basic | [LoveLetterMystery](https://www.hackerrank.com/challenges/the-love-letter-mystery/problem)|[Solution](https://github.com/lakshayjawa/dsapractice/blob/main/src/com/practice/hackerrank/algorithms/strings/LoveLetterMystery.java)
 | 10 | Easy | Basic | [Pangrams](https://www.hackerrank.com/challenges/pangrams/problem)|[Solution](https://github.com/lakshayjawa/dsapractice/blob/main/src/com/practice/hackerrank/algorithms/strings/Pangrams.java)
 | 11 | Easy | Basic | [Strong Password](https://www.hackerrank.com/challenges/strong-password/problem)|[Solution](https://github.com/lakshayjawa/dsapractice/blob/main/src/com/practice/hackerrank/algorithms/strings/StrongPassword.java)
@@ -40,6 +40,10 @@ REACTO - Accronym for approaching DSA problems
 | 1  | Easy | Basic | [Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem) | [Solution](https://github.com/lakshayjawa/dsapractice/blob/main/src/com/practice/hackerrank/algorithms/implementation/DesignerPdfViewer.java)
 | 2  | Easy | Basic | [Modified Kaprekar Numbers](https://www.hackerrank.com/challenges/kaprekar-numbers/problem) | [Solution](https://github.com/lakshayjawa/dsapractice/blob/main/src/com/practice/hackerrank/algorithms/implementation/ModifiedKaprekarNumbers.java)
 | 3  | Easy | Basic | [Cavity Map](https://www.hackerrank.com/challenges/cavity-map/problem)  | [Solution](https://github.com/lakshayjawa/dsapractice/blob/main/src/com/practice/hackerrank/algorithms/implementation/CavityMap.java)
+| 4  | Medium | Intermediate | [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/problem) | [Solution](https://github.com/lakshayjawa/dsapractice/blob/main/src/com/practice/hackerrank/algorithms/implementation/ExtraLongFactorials.java)
+| 5  | Medium |  Basic | [Encryption](https://www.hackerrank.com/challenges/encryption/problem) | [Solution](https://github.com/lakshayjawa/dsapractice/blob/main/src/com/practice/hackerrank/algorithms/implementation/Encryption.java)
+
+
 
 
 ### Data Structures
