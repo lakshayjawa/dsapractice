@@ -1,11 +1,24 @@
 ## Array Questions for DSA                    
 
-`:orange_circle:`
-`:red_circle:`
-`:green_circle:`
-`:star:`
+Legend:
+- Difficulty
+  - :orange_circle: Medium 
+  - :red_circle: Hard
+  - :green_circle: Easy
+  
+- :star: Important
+- :white_check_mark: Done
+- :negative_squared_cross_mark: Not done 
 
-:grinning: :sunglasses:
+dasf
+
+
+| Difficulty       | Done                           | Problem |
+| -------------    | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| :orange_circle:  | :white_check_mark:             | [Reverse the array](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/)                                                                                                                                                                                                                  |
+| :red_circle:     | :negative_squared_cross_mark:  | [Reverse the array](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/)                                                                                                                                                                                                                  |
+
+
 
 - [ ] [Reverse the array](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/)                                                                               
 - [ ] [Find the maximum and minimum element in an array](https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/)                                                                                                                                                                                                
