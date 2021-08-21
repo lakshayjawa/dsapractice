@@ -1,14 +1,14 @@
 ## Array Questions for DSA                    
 
-Legend:
-- Difficulty
-  - :orange_circle: Medium 
-  - :red_circle: Hard
-  - :green_circle: Easy
-  
-- :star: Important
-- :white_check_mark: Done
-- :negative_squared_cross_mark: Not done 
+- Legend
+  - Difficulty
+    - :green_circle: Easy
+    - :orange_circle: Medium 
+    - :red_circle: Hard
+    
+  - :star: Important
+  - :white_check_mark: Done
+  - :negative_squared_cross_mark: Not done 
 
 
 | Difficulty       | Done                          | Solution  | Problem                                                                                                                                                                                                                                                                                                            |
