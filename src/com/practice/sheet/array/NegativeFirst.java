@@ -14,26 +14,21 @@ public class NegativeFirst {
     //
     int[] a = {-1, 8, 5, 422, 21, -2, -3, 34, -11, 2};
     System.out.println("Input: ");
-    printArray(a);
+    System.out.println(Arrays.toString(a));
     System.out.println("Using sorting");
     arrangeNegativeFirst(a);
-    printArray(a);
+    System.out.println(Arrays.toString(a));
     System.out.println("Using two pointers moving forward");
     int[] a1 = {-1, 8, 5, 422, 21, -2, -3, 34, -11, 2};
     arrangeNegativeFirstUsingTwoPointers(a1);
-    printArray(a1);
+    System.out.println(Arrays.toString(a));
     System.out.println("Using bidirectional approach");
     int[] a2 = {-1, 8, 5, 422, 21, -2, -3, 34, -11, 2};
     rearrangeBidirectional(a2, 0, a2.length - 1);
-    printArray(a2);
+    System.out.println(Arrays.toString(a));
   }
 
-  static void printArray(int[] a) {
-    for (int i : a) {
-      System.out.print(i + " ");
-    }
-    System.out.println();
-  }
+
   /**
    * Time complexity depends on the sorting algorithm. May be O(nlog(n))
    *

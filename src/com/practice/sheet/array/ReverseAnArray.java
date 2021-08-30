@@ -1,5 +1,7 @@
 package com.practice.sheet.array;
 
+import java.util.Arrays;
+
 /**
  * ReverseAnArray
  *
@@ -9,13 +11,13 @@ public class ReverseAnArray {
   public static void main(String[] args) {
     //
     int[] arr = {1, 2, 3, 4, 5};
-    printArray(arr);
+    System.out.println(Arrays.toString(arr));
     reverseArray(arr);
     System.out.println("Reversed Array  is:");
-    printArray(arr);
+    System.out.println(Arrays.toString(arr));
     reverseArrayRecursive(arr, 0, arr.length - 1);
     System.out.println("Reversed Array using recursion is:");
-    printArray(arr);
+    System.out.println(Arrays.toString(arr));
   }
 
   static void reverseArray(int[] arr) {
@@ -40,10 +42,4 @@ public class ReverseAnArray {
     }
   }
 
-  static void printArray(int[] arr) {
-    for (int j : arr) {
-      System.out.print(j);
-    }
-    System.out.println();
-  }
 }

@@ -15,7 +15,7 @@ public class FindKthSmallestElement {
     //
     int[] a = {23, 2, 21, 231, 12, 36, 76};
     int k = 3;
-    printArray(a);
+    System.out.println(Arrays.toString(a));
     System.out.println("K = " + k + " smallest element = " + findKthSmallestUsingSorting(a, k));
     System.out.println("K = " + k + " smallest element = " + findKthSmallestUsingMinHeap(a, k));
     int[] x = {23, 2, 21, 231, 12, 36, 76};
@@ -26,12 +26,7 @@ public class FindKthSmallestElement {
             + findKthSmallestUsingRandomizedQuickSelect(x, 0, x.length - 1, k));
   }
 
-  static void printArray(int[] a) {
-    for (int i : a) {
-      System.out.print(i + " ");
-    }
-    System.out.println();
-  }
+
   /**
    * A simple solution is to sort the given array using a O(N log N) sorting algorithm like Merge
    * Sort, Heap Sort, etc, and return the element at index k-1 in the sorted array. Time Complexity
@@ -75,7 +70,7 @@ public class FindKthSmallestElement {
    * and right sides of pivot, but recur for one of them according to the position of pivot. The
    * worst case time complexity of this method is O(n2), but it works in O(n) on average.
    *
-   * Assumption: all elements are distinct
+   * <p>Assumption: all elements are distinct
    *
    * @param a input array
    * @param low low
@@ -89,7 +84,7 @@ public class FindKthSmallestElement {
       int pos = randomPartition(a, low, high);
       // pivot selection is randomized using above method.
       // we can use below line and comment the above one to use a simpler implementation
-      //int pos = partition(a, low, high);
+      // int pos = partition(a, low, high);
       System.out.println("pos=" + pos);
       if (pos - low == k - 1) {
         return a[pos];
@@ -130,10 +125,10 @@ public class FindKthSmallestElement {
     a[j] = temp;
   }
 
-  static int randomPartition(int[] a, int low,int high){
-    int numberOfElements = high - low+ 1;
+  static int randomPartition(int[] a, int low, int high) {
+    int numberOfElements = high - low + 1;
     int pivotIndex = new Random().nextInt(numberOfElements);
-    swap(a,low+ pivotIndex, high);
-    return partition(a, low,high);
+    swap(a, low + pivotIndex, high);
+    return partition(a, low, high);
   }
 }

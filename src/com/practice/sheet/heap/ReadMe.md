@@ -13,9 +13,9 @@
 
 | Difficulty       | Done                          | Solution  | Problem                                                                                                                                                                                                                                                                                                            |
 | -------------    | ------------------------------ | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| :green_circle:     | :negative_squared_cross_mark:  | [Solution](ReverseAnArray.java) | [Implement a Maxheap/MinHeap using arrays and recursion.](https://www.geeksforgeeks.org/building-heap-from-array/)
-| :green_circle:     | :negative_squared_cross_mark:  | [Solution](ReverseAnArray.java) | [Sort an Array using heap. (HeapSort)](https://www.geeksforgeeks.org/heap-sort/)
-| :green_circle:     | :negative_squared_cross_mark:  | [Solution](ReverseAnArray.java) | [Maximum of all subarrays of size k.](https://www.geeksforgeeks.org/sliding-window-maximum-maximum-of-all-subarrays-of-size-k/)
+| :orange_circle:     | :white_check_mark:  | [Solution](BuildHeap.java) | [Implement a Maxheap/MinHeap using arrays and recursion.](https://www.geeksforgeeks.org/building-heap-from-array/)
+| :orange_circle:     | :white_check_mark:  | [Solution](HeapSort.java) |:star: [Sort an Array using heap. (HeapSort)](https://www.geeksforgeeks.org/heap-sort/)
+| :red_circle:     | :white_check_mark:  | [Solution](SlidingWindowMax.java) | :star:[Maximum of all subarrays of size k.](https://www.geeksforgeeks.org/sliding-window-maximum-maximum-of-all-subarrays-of-size-k/)
 | :green_circle:     | :negative_squared_cross_mark:  | [Solution](ReverseAnArray.java) | [“k” largest element in an array](https://practice.geeksforgeeks.org/problems/k-largest-elements4206/1)
 | :green_circle:     | :negative_squared_cross_mark:  | [Solution](ReverseAnArray.java) | [Kth smallest and largest element in an unsorted array](https://www.geeksforgeeks.org/kth-smallestlargest-element-unsorted-array/)
 | :green_circle:     | :negative_squared_cross_mark:  | [Solution](ReverseAnArray.java) | [Merge “K” sorted arrays. \[ IMP \]](https://practice.geeksforgeeks.org/problems/merge-k-sorted-arrays/1)

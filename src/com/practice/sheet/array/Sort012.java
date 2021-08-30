@@ -12,24 +12,17 @@ public class Sort012 {
     //
     int[] a = {1, 1, 2, 1, 0, 0, 0, 1, 2};
     System.out.println("Input = ");
-    printArray(a);
+    System.out.println(Arrays.toString(a));
     sortUsingSortingAlgorithm(a);
-    printArray(a);
+    System.out.println(Arrays.toString(a));
     System.out.println("sortWithoutSortingAlgo");
     int[] a1 = {1, 1, 2, 1, 0, 0, 0, 1, 2};
     sortWithoutSortingAlgo(a1);
-    printArray(a1);
+    System.out.println(Arrays.toString(a));
     System.out.println("sortWithoutSortingAlgoMostEfficient");
     int[] a2 = {1, 1, 2, 1, 0, 0, 0, 1, 2};
     sortWithoutSortingAlgoMostEfficient(a2);
-    printArray(a2);
-  }
-
-  static void printArray(int[] a) {
-    for (int i : a) {
-      System.out.print(i + " ");
-    }
-    System.out.println();
+    System.out.println(Arrays.toString(a));
   }
 
   /**

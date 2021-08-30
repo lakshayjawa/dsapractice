@@ -1,6 +1,7 @@
 package com.practice.sheet.array;
 
 import java.sql.SQLOutput;
+import java.util.Arrays;
 
 /**
  * FindMaxMin
@@ -17,7 +18,7 @@ public class FindMaxMin {
     //
     int[] a = {10, 20, 3, 30, 1000, 99};
     System.out.println("Input: ");
-    printArray(a);
+    System.out.println(Arrays.toString(a));
     Pair p = findMaxMinUsingLinearSearch(a);
     if (p != null) {
       System.out.println("Max is: " + p.max + " Min is: " + p.min);
@@ -27,12 +28,6 @@ public class FindMaxMin {
     System.out.println("Max is: " + recursive.max + " Min is: " + recursive.min);
   }
 
-  static void printArray(int[] a) {
-    for (int i : a) {
-      System.out.print(i + " ");
-    }
-    System.out.println();
-  }
 
   /**
    * In this method, the total number of comparisons is 1 + 2(n-2) in the worst case and 1 + n – 2
