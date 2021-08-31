@@ -29,12 +29,12 @@
 | :orange_circle:     | :white_check_mark:  | [Solution](IsBinaryTreeAHeap.java) | :star: [Check if a Binary Tree is Heap](https://www.geeksforgeeks.org/check-if-a-given-binary-tree-is-heap/)
 | :green_circle:     | :negative_squared_cross_mark:  | [Solution](ReverseAnArray.java) | [Connect “n” ropes with minimum cost](https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes/0)
 | :orange_circle:     | :white_check_mark:  | [Solution](BstToMinHeap.java) | [Convert BST to Min Heap](https://www.geeksforgeeks.org/convert-bst-min-heap/)
-| :green_circle:     | :ballot_box_with_check:  | [Solution](#convert min heap to max heap) | [Convert min heap to max heap](https://www.geeksforgeeks.org/convert-min-heap-to-max-heap/)
+| :green_circle:     | :ballot_box_with_check:  | [Solution](#convert-min-heap-to-max-heap) | [Convert min heap to max heap](https://www.geeksforgeeks.org/convert-min-heap-to-max-heap/)
 | :green_circle:     | :negative_squared_cross_mark:  | [Solution](ReverseAnArray.java) | [Rearrange characters in a string such that no two adjacent are same.](https://practice.geeksforgeeks.org/problems/rearrange-characters/0)
 | :green_circle:     | :negative_squared_cross_mark:  | [Solution](ReverseAnArray.java) | [Minimum sum of two numbers formed from digits of an array](https://practice.geeksforgeeks.org/problems/minimum-sum4058/1)                                                                                                                                                                                         
 
 
-# Convert min heap to max heap
+### Convert Min Heap to Max Heap
 - Simply build Max Heap without caring about the input. 
 - start from bottom-most and rightmost internal mode of min Heap and heapify all internal modes in bottom up way to build the Max heap.
 
