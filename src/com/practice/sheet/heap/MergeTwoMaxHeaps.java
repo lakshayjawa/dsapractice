@@ -16,7 +16,6 @@ public class MergeTwoMaxHeaps {
     int[] merged = new int[a.length + b.length];
     mergeHeaps(merged, a, b);
     System.out.println("After merge:" + Arrays.toString(merged));
-    System.out.println(x);
   }
 
   private static void mergeHeaps(int[] merged, int[] a, int[] b) {
